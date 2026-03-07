@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by setiastro.com.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="SyQonScripts03.07.2026.zip" sha1="ec12bbfea91ded2da02455ca43b1293878894840" type="script" releaseDate="20260307">
+         <title>
+        SyQon - Prism and Starless Initial Release
+      </title>
+         <description>
+            <p>
+SyQon&apos;s Initial release of scripts to interface with the CLI for Starless and the CLI version of Prism.
+		</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="FranklinMarek" timestamp="2026-03-07T21:28:07.792Z" encoding="Base64">qKP9hhTXTLxBh0ia4pOFMXvzAZKjYweZphlp+2BvTOsvPQSMSyCGCG3DkLM5uG9wd5SMJIE40sjMvABdE9xDCw==</Signature>
