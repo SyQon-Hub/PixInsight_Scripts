@@ -6,9 +6,9 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SyQonScripts03.07.2026.zip" sha1="ec12bbfea91ded2da02455ca43b1293878894840" type="script" releaseDate="20260307">
+      <package fileName="SyQonScripts03.09.2026.zip" sha1="08166b5707e17748e5f29e8ed34a486ea4e19d53" type="script" releaseDate="20260309">
          <title>
-        SyQon - Prism and Starless Initial Release
+        SyQon - Tools
       </title>
          <description>
             <p>
@@ -18,4 +18,4 @@ SyQon&apos;s Initial release of scripts to interface with the CLI for Starless a
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-03-07T21:28:07.792Z" encoding="Base64">qKP9hhTXTLxBh0ia4pOFMXvzAZKjYweZphlp+2BvTOsvPQSMSyCGCG3DkLM5uG9wd5SMJIE40sjMvABdE9xDCw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-03-09T15:56:52.467Z" encoding="Base64">LAh95oWNB5tFYDbo0nzh9/0qQK5MI2a7Zkm4w1Rtp8I9E7/qz4JeT83w+esW/2jO3vjU8CCwaAeAlQbtsxGVAA==</Signature>
