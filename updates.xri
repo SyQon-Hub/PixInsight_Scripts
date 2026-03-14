@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SyQonScripts03.09.2026_1.zip" sha1="858f628bbe9a8797b5f49f10cb808c98a23b158c" type="script" releaseDate="20260309">
+      <package fileName="SyQonScripts03.14.2026.zip" sha1="c01190111605d7b28d492ed2cf66193864c8e053" type="script" releaseDate="20260314">
          <title>
         SyQon - Tools
       </title>
          <description>
             <p>
-SyQon&apos;s Initial release of scripts to interface with the CLI for Starless and the CLI version of Prism.
+Prism Update to save and load your parameters and option to drag and drop and run instantly without seeing the UI. SyQon&apos;s Initial release of scripts to interface with the CLI for Starless and the CLI version of Prism.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-03-09T19:07:27.923Z" encoding="Base64">WEalnDISn9rpO48D/hTYSxYSe4MQ/gdUT0NBL7uuRt00v5euUNwacDQg62GOCIZkXWilnZJiP0JMRDYOJsqTBA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-03-14T14:17:53.942Z" encoding="Base64">q3+u4LR8OuGB7lBlVfkbeDPRnnvnDUrrAM9rhrR8+dGQlIsECwYb/z09PKpGvk6ikeOHDP8XImfd5jPzcduJBQ==</Signature>
