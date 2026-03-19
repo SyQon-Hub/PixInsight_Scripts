@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SyQonScripts03.19.2026.zip" sha1="cd7f2e084cb1e5a557be95075e09a04efef9d294" type="script" releaseDate="20260319">
+      <package fileName="SyQonScripts03.19.2026_1.zip" sha1="6a293dd3207a8d56612ec3049fcf7fef4f86e9bb" type="script" releaseDate="20260319">
          <title>
         SyQon - Tools
       </title>
@@ -18,4 +18,4 @@ Prism Update: complete overhaul of the waiting portion.  A new UI will pop up wi
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-03-19T12:59:06.519Z" encoding="Base64">qt642Es0fPAkA3Q4ZJ0Kropk5VqmzY9GlU2WOFE5zObrQlnwoznjuLKJ9pmbHFueLOr7PwbjENWjY4MmqXsyBg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-03-19T15:45:21.157Z" encoding="Base64">Ub32kSS9duVDH1GyFec1NVyD6w6yCLeLdWCPWRNBqIs9l45nQOU8/3nE6QXxEKun4Krs8jiXUuvfrtx7ioSRCA==</Signature>
