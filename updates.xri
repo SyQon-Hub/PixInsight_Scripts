@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SyQonScripts03.17.2026.zip" sha1="ac24601974333835088bdf4c2cecf095429b9b56" type="script" releaseDate="20260317">
+      <package fileName="SyQonScripts03.19.2026.zip" sha1="cd7f2e084cb1e5a557be95075e09a04efef9d294" type="script" releaseDate="20260319">
          <title>
         SyQon - Tools
       </title>
          <description>
             <p>
-Prism Update: better defaults to work with more images out of the gate and now temp stretch is done within pixinsight vastly improving the temp stretch fed into prism_cli.  Prism Update to save and load your parameters and option to drag and drop and run instantly without seeing the UI. SyQon&apos;s Initial release of scripts to interface with the CLI for Starless and the CLI version of Prism.
+Prism Update: complete overhaul of the waiting portion.  A new UI will pop up with progress and the ability to cancel if you so choose instead of having the frozen UI.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-03-18T01:04:59.586Z" encoding="Base64">6EgaIdKcwNr7P4yhHH/p0X92K0UoRaICu53WdDLmR1g7ZmRCLNfQFIXe3UMCeq/FBwyova3hK8/srB1UjI8UAw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-03-19T12:59:06.519Z" encoding="Base64">qt642Es0fPAkA3Q4ZJ0Kropk5VqmzY9GlU2WOFE5zObrQlnwoznjuLKJ9pmbHFueLOr7PwbjENWjY4MmqXsyBg==</Signature>
