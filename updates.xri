@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SyQonScripts03.19.2026_1.zip" sha1="6a293dd3207a8d56612ec3049fcf7fef4f86e9bb" type="script" releaseDate="20260319">
+      <package fileName="SyQonScripts04.27.2026.zip" sha1="b2c74595a73de30661d06d5c9403895809259d32" type="script" releaseDate="20260427">
          <title>
         SyQon - Tools
       </title>
          <description>
             <p>
-Prism Update: complete overhaul of the waiting portion.  A new UI will pop up with progress and the ability to cancel if you so choose instead of having the frozen UI.
+Starless Update:  Creation of the Script to interface with Axiom V2.1 upon release
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-03-19T15:45:21.157Z" encoding="Base64">Ub32kSS9duVDH1GyFec1NVyD6w6yCLeLdWCPWRNBqIs9l45nQOU8/3nE6QXxEKun4Krs8jiXUuvfrtx7ioSRCA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-04-27T19:41:23.444Z" encoding="Base64">rkuB5OuOQ2Egr7bOObFu48pQKOgfqC3UnQU9Wafoeh0pdq7AJiP6oafGtw4X4nlD1anhtAJMp3nKyX8YgA2KDg==</Signature>
