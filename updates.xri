@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="SyQonScripts04.30.2026.zip" sha1="3c4917f430134091702bc2c09dbef83e40d2eab0" type="script" releaseDate="20260430">
+      <package fileName="SyQonScripts05.07.2026.zip" sha1="3376882dda68afbe8c77675f2e70d3f83d312281" type="script" releaseDate="20260507">
          <title>
         SyQon - Tools
       </title>
          <description>
             <p>
-Starless Update:  Creation of the Script to interface with Axiom V2.1 upon release
+Starless Update: Update to work with new Starless CLI
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-04-30T16:16:04.780Z" encoding="Base64">wcuJxQuquC9BXjzNIyQMVcF4aKTlhQ6lWb1zj0NH98az5IUTn0yvYQbMD7Vq3iT2Ql6l21hdUDdGkl/EXEsACw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-07T14:38:37.927Z" encoding="Base64">Mb0YTWHxYj9Q7AV277G6iu5tN7E4vdYjnv791XQ+ORPVyBJoP66k9zDCiykER9tOKOX1tlcAolX6pIZgXb3DDQ==</Signature>
