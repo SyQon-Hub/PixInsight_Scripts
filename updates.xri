@@ -5,7 +5,7 @@
       This is the repository for PixInsight scripts by setiastro.com.
     </p>
    </description>
-   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+   <platform os="all" arch="noarch" version="1.8.8:1.9.3">
       <package fileName="SyQonScripts05.07.2026.zip" sha1="3376882dda68afbe8c77675f2e70d3f83d312281" type="script" releaseDate="20260507">
          <title>
         SyQon - Tools
@@ -18,4 +18,4 @@ Starless Update: Update to work with new Starless CLI
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-07T14:38:37.927Z" encoding="Base64">Mb0YTWHxYj9Q7AV277G6iu5tN7E4vdYjnv791XQ+ORPVyBJoP66k9zDCiykER9tOKOX1tlcAolX6pIZgXb3DDQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-05-13T15:22:42.350Z" encoding="Base64">ODLVM3vo4XU9cPHpQ7QA83D354huX/51t0sO83w8ODhUFbkjV7ZJT3Evub9TDwddslMoc1xCLxkqGri2tW7YDw==</Signature>
