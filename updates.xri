@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SyQonScripts05.07.2026.zip" sha1="3376882dda68afbe8c77675f2e70d3f83d312281" type="script" releaseDate="20260507">
+      <package fileName="SyQonScripts06.10.2026.zip" sha1="6e91426c6b8b169ff36f847c4e01cb0f1244c3f2" type="script" releaseDate="20260610">
          <title>
-        SyQon - Tools
+        SyQon - Parallax
       </title>
          <description>
             <p>
-Starless Update: Update to work with new Starless CLI
+SyQon Parallax:  Next Generation Sharpening, Star Reduction, and Aberration Correction.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-13T15:22:42.350Z" encoding="Base64">ODLVM3vo4XU9cPHpQ7QA83D354huX/51t0sO83w8ODhUFbkjV7ZJT3Evub9TDwddslMoc1xCLxkqGri2tW7YDw==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-06-10T20:22:51.997Z" encoding="Base64">LGNlz3CybnFgsBUVkRYlOkftbhXQH1aX8H4A9ZCptvbezg3YNrkqJvjQ4IoGW/0VV64RpD37k/EfUy58ois6Dw==</Signature>
