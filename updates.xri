@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SyQonScripts06.11.2026_1.zip" sha1="eeecc22ea9072913c42dd0cd80399f0ec882e79f" type="script" releaseDate="20260611">
+      <package fileName="SyQonScripts06.14.2026.zip" sha1="c3e0ec3c67221645bc38646ed26bf788ab55967b" type="script" releaseDate="20260614">
          <title>
         SyQon - Parallax
       </title>
          <description>
             <p>
-SyQon Parallax: Next Generation Sharpening, Star Reduction, and Aberration Correction.  V1.3 Linked Temp Stretch option for those that have already color calibrated their data.  V1.2 Updated Defaults V1.1 OSC Bug Fix.
+SyQon Parallax: Next Generation Sharpening, Star Reduction, and Aberration Correction.  V1.4 Updated for additional Reduction and Sharpening Levels V1.3 Linked Temp Stretch option for those that have already color calibrated their data.  V1.2 Updated Defaults V1.1 OSC Bug Fix.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-06-11T16:16:52.036Z" encoding="Base64">+Yz/yjGpnm+Zro1xL7HSjN+5Jds2cRsM3U0mRO+pu9Ri7RUoHMeOudwOXxxYEEEQ3XpMvA8vXkC8ffdIWJLbDQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-06-15T00:35:41.795Z" encoding="Base64">HrlFHJtlD4V5Bmq1J6av3puGihyOOX+/c4+BlCv3xPZOPZzKYLYVTWuMiI8WCfe5KM0asxJifoTKMzRfjn4TAg==</Signature>
