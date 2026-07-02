@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SyQonScripts06.14.2026.zip" sha1="c3e0ec3c67221645bc38646ed26bf788ab55967b" type="script" releaseDate="20260614">
+      <package fileName="SyQonScripts07.02.2026.zip" sha1="6cfad521297f360326bd6a0a9334248c9f40e9ef" type="script" releaseDate="20260702">
          <title>
-        SyQon - Parallax
+        SyQon - Starless
       </title>
          <description>
             <p>
-SyQon Parallax: Next Generation Sharpening, Star Reduction, and Aberration Correction.  V1.4 Updated for additional Reduction and Sharpening Levels V1.3 Linked Temp Stretch option for those that have already color calibrated their data.  V1.2 Updated Defaults V1.1 OSC Bug Fix.
+Major Update to run the new Axiom 3 starless from SyQon.  Be sure to download the latest all in one standalone starless CLI tool from SyQon
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-06-15T00:35:41.795Z" encoding="Base64">HrlFHJtlD4V5Bmq1J6av3puGihyOOX+/c4+BlCv3xPZOPZzKYLYVTWuMiI8WCfe5KM0asxJifoTKMzRfjn4TAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-02T12:14:10.471Z" encoding="Base64">3alipQQ6no0Bty5+244wUJoPItSxvGT9BaNBOtTdKqrPpS3lUF49nlM7CTQuLF1YbqGyqf6ASaceeWbL8+b8CQ==</Signature>
