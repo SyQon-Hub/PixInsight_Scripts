@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SyQonScripts07.02.2026.zip" sha1="6cfad521297f360326bd6a0a9334248c9f40e9ef" type="script" releaseDate="20260702">
+      <package fileName="SyQonScripts07.03.2026.zip" sha1="56820fb1942c6be7a02f801519fb09e035ced2ef" type="script" releaseDate="20260703">
          <title>
         SyQon - Starless
       </title>
          <description>
             <p>
-Major Update to run the new Axiom 3 starless from SyQon.  Be sure to download the latest all in one standalone starless CLI tool from SyQon
+Major Update to run the new Axiom 3 starless from SyQon.  Be sure to download the latest all in one standalone starless CLI tool from SyQon. V3.0.1 Update for mac users to make it easier to select the .app right from applications.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-02T12:14:10.471Z" encoding="Base64">3alipQQ6no0Bty5+244wUJoPItSxvGT9BaNBOtTdKqrPpS3lUF49nlM7CTQuLF1YbqGyqf6ASaceeWbL8+b8CQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-03T19:45:07.357Z" encoding="Base64">3eJsxi9zBu4zJuzF/Ac/XPufmuwNo5mwNlkN+l4DFnUAkO+M78EUjSmeswe03+gRJu/0xXWH7Qz8YdY7wMLUAg==</Signature>
