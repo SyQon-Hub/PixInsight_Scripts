@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SyQonScripts07.03.2026.zip" sha1="56820fb1942c6be7a02f801519fb09e035ced2ef" type="script" releaseDate="20260703">
+      <package fileName="SyQonScripts07.03.2026_1.zip" sha1="b6ff6f4bd749e329dfcd33884176595df88c5475" type="script" releaseDate="20260703">
          <title>
         SyQon - Starless
       </title>
@@ -18,4 +18,4 @@ Major Update to run the new Axiom 3 starless from SyQon.  Be sure to download th
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-03T19:45:07.357Z" encoding="Base64">3eJsxi9zBu4zJuzF/Ac/XPufmuwNo5mwNlkN+l4DFnUAkO+M78EUjSmeswe03+gRJu/0xXWH7Qz8YdY7wMLUAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-03T20:01:15.262Z" encoding="Base64">SPipZgxEZGmhhMt0fDnuOdCNJVyRinsE9lijbvOMHEkXv4Tu+aCKKoiF/Z94G6MnsjPpCAZCsbUeQIZ45YhnCQ==</Signature>
