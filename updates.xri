@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SyQonScripts07.11.2026.zip" sha1="1ede458e6b43f5783971b69f71a3bfc3aaf121cf" type="script" releaseDate="20260711">
+      <package fileName="SyQonScripts07.13.2026.zip" sha1="429409144057f75e5145d1f0216dc250c930b961" type="script" releaseDate="20260713">
          <title>
         SyQon - Parallax
       </title>
          <description>
             <p>
-Updated to run the new Defined models of Parallax
+Timeout bug fix
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-12T01:02:02.252Z" encoding="Base64">x6ljYhDSCEGn31Knowblgr2S1a7bP11ipYPSbx68YsO715vIWN8WpbwN7wQdDeSjAteMJ7Fr4jr6pKTLRUwWBg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-13T12:58:31.168Z" encoding="Base64">jcJlYg9jJVbZU+AyyNmiTC+0cYHg9a3Xdm6ds8DXTqNtqPA+GnihnWbqXk97QW7Qn64ilAXLddX0nmL+AgwMAA==</Signature>
