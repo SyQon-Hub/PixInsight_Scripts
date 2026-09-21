@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.3">
-      <package fileName="SyQonScripts07.15.2026.zip" sha1="247b40c183ac65c89ea2c6eadb5d7618ec4205b4" type="script" releaseDate="20260715">
+      <package fileName="SyQonScripts09.21.2026.zip" sha1="646a8534a8119793e9f8b53b73f6e228a173438e" type="script" releaseDate="20260921">
          <title>
-        SyQon - Starless
+        SyQon - Studio
       </title>
          <description>
             <p>
-Bug fix where some users couldn&apos;t select the executable
+SyQon Studio script communicates with SyQon Studio, allowing you to run any SyQon neural net process you are licensed for, in an all in one location.  Use the blue triangle to drag off your current settings to the PI canvas as a shortcut for your favorite engine and settings!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-15T16:13:56.655Z" encoding="Base64">qh+GDniTcHUBqNKDHfx3XOXZ0xhoJ1icXW2RFGMuT4hd48ye9PSRoPfJ8LXHoyy+MYfJwXE8qn1jqJplfXuFAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-21T18:37:28.442Z" encoding="Base64">LwbX/4jN7ThJWK+GCnsGmIr+AOhxCbbytAdReVu0JnjMFNafAAyNJF9oh/IK/Nm0Lf/3krJsEA7MDmjf/qYiCQ==</Signature>
